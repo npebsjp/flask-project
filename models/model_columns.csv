@@ -1,0 +1,316 @@
+column
+zipCode
+latitude
+longitude
+bedrooms
+bathrooms
+squareFootage
+lotSize
+yearBuilt
+cooling
+heating
+fireplace
+floorCount
+garage
+propertyType_Apartment
+propertyType_Manufactured
+propertyType_Single Family
+propertyType_Townhouse
+heatingType_Central
+heatingType_Convection
+heatingType_Electric
+heatingType_Floor / Wall
+heatingType_Forced Air
+heatingType_Gravity
+heatingType_Heat Pump
+heatingType_Hot Air
+heatingType_Hot Water
+heatingType_Package
+heatingType_Radiant
+heatingType_Solar
+heatingType_Space
+heatingType_Steam
+heatingType_Type Unknown
+heatingType_Unit
+garageSpaces_1.0
+garageSpaces_2.0
+garageSpaces_3.0
+garageSpaces_4.0
+garageSpaces_5.0
+garageSpaces_6.0
+garageSpaces_7.0
+garageSpaces_8.0
+garageSpaces_11.0
+coolingType_Central
+coolingType_Commercial
+coolingType_Package
+coolingType_Wall
+coolingType_Window
+city_Altamonte Springs
+city_Apollo Beach
+city_Apopka
+city_Auburndale
+city_Ave Maria
+city_Aventura
+city_Avon Park
+city_Bartow
+city_Belleview
+city_Beverly Hills
+city_Boca Raton
+city_Bonita Springs
+city_Boynton Beach
+city_Bradenton
+city_Brandon
+city_Brooksville
+city_Cantonment
+city_Cape Coral
+city_Casselberry
+city_Citrus Springs
+city_Clearwater
+city_Clearwater Beach
+city_Clermont
+city_Cocoa
+city_Cocoa Beach
+city_Coconut Creek
+city_Coral Gables
+city_Coral Springs
+city_Crestview
+city_Cutler Bay
+city_Dade City
+city_Davenport
+city_Davie
+city_Daytona Beach
+city_Debary
+city_Deerfield Beach
+city_Deland
+city_Delray Beach
+city_Deltona
+city_Destin
+city_Doral
+city_Dunedin
+city_Dunnellon
+city_Eagle Lake
+city_Edgewater
+city_Englewood
+city_Estero
+city_Eustis
+city_Fernandina Beach
+city_Fleming Island
+city_Fort Lauderdale
+city_Fort Myers
+city_Fort Myers Beach
+city_Fort Pierce
+city_Fort Walton Beach
+city_Freeport
+city_Gainesville
+city_Gibsonton
+city_Green Cove Springs
+city_Greenacres
+city_Groveland
+city_Gulfport
+city_Haines City
+city_Hallandale Beach
+city_Harmony
+city_Hernando
+city_Hialeah
+city_Hobe Sound
+city_Holiday
+city_Hollywood
+city_Homestead
+city_Homosassa
+city_Hudson
+city_Inlet Beach
+city_Inverness
+city_Jacksonville
+city_Jacksonville Beach
+city_Jensen Beach
+city_Jupiter
+city_Key Largo
+city_Key West
+city_Kissimmee
+city_Labelle
+city_Lady Lake
+city_Lake Alfred
+city_Lake Mary
+city_Lake Placid
+city_Lake Wales
+city_Lake Worth
+city_Lake Worth Beach
+city_Lakeland
+city_Lakewood Ranch
+city_Land O Lakes
+city_Largo
+city_Lauderdale Lakes
+city_Lauderhill
+city_Leesburg
+city_Lehigh Acres
+city_Lithia
+city_Longboat Key
+city_Longwood
+city_Loxahatchee
+city_Lutz
+city_Maitland
+city_Marco Island
+city_Margate
+city_Melbourne
+city_Merritt Island
+city_Miami
+city_Miami Beach
+city_Miami Gardens
+city_Middleburg
+city_Milton
+city_Minneola
+city_Miramar
+city_Miramar Beach
+city_Mount Dora
+city_Mulberry
+city_Naples
+city_New Port Richey
+city_New Smyrna Beach
+city_Newberry
+city_Niceville
+city_Nokomis
+city_North Fort Myers
+city_North Lauderdale
+city_North Miami
+city_North Miami Beach
+city_North Palm Beach
+city_North Port
+city_Oakland Park
+city_Ocala
+city_Ocoee
+city_Odessa
+city_Oldsmar
+city_Opa Locka
+city_Orange City
+city_Orange Park
+city_Orlando
+city_Ormond Beach
+city_Oviedo
+city_Palm Bay
+city_Palm Beach
+city_Palm Beach Gardens
+city_Palm Coast
+city_Palm Harbor
+city_Palmetto
+city_Palmetto Bay
+city_Panama City
+city_Panama City Beach
+city_Parkland
+city_Parrish
+city_Pembroke Pines
+city_Pensacola
+city_Pinellas Park
+city_Plant City
+city_Plantation
+city_Pompano Beach
+city_Ponte Vedra
+city_Ponte Vedra Beach
+city_Port Charlotte
+city_Port Orange
+city_Port Richey
+city_Port Saint Lucie
+city_Punta Gorda
+city_Riverview
+city_Riviera Beach
+city_Rockledge
+city_Rotonda West
+city_Royal Palm Beach
+city_Ruskin
+city_Safety Harbor
+city_Saint Augustine
+city_Saint Cloud
+city_Saint Johns
+city_Saint Petersburg
+city_San Antonio
+city_Sanford
+city_Santa Rosa Beach
+city_Sarasota
+city_Satellite Beach
+city_Sebastian
+city_Sebring
+city_Seffner
+city_Seminole
+city_South Daytona
+city_Spring Hill
+city_St Pete Beach
+city_Stuart
+city_Summerfield
+city_Sun City Center
+city_Sunrise
+city_Tallahassee
+city_Tamarac
+city_Tampa
+city_Tarpon Springs
+city_Tavares
+city_Temple Terrace
+city_The Villages
+city_Titusville
+city_Treasure Island
+city_Valrico
+city_Venice
+city_Vero Beach
+city_Weeki Wachee
+city_Wellington
+city_Wesley Chapel
+city_West Palm Beach
+city_Weston
+city_Wilton Manors
+city_Wimauma
+city_Windermere
+city_Winter Garden
+city_Winter Haven
+city_Winter Park
+city_Winter Springs
+city_Yulee
+city_Zephyrhills
+county_Alachua
+county_Baker
+county_Bay
+county_Brevard
+county_Broward
+county_Charlotte
+county_Citrus
+county_Clay
+county_Collier
+county_Duval
+county_Escambia
+county_Flagler
+county_Glades
+county_Hendry
+county_Hernando
+county_Highlands
+county_Hillsborough
+county_Indian River
+county_Lake
+county_Lee
+county_Leon
+county_Manatee
+county_Marion
+county_Martin
+county_Miami-Dade
+county_Monroe
+county_Nassau
+county_Okaloosa
+county_Orange
+county_Osceola
+county_Palm Beach
+county_Pasco
+county_Pinellas
+county_Polk
+county_Saint Johns
+county_Saint Lucie
+county_Santa Rosa
+county_Sarasota
+county_Seminole
+county_St. Johns
+county_St. Lucie
+county_Sumter
+county_Volusia
+county_Walton
+pool_0
+pool_1
+pool_False
+pool_Inground
+pool_Pool/spa
+pool_True

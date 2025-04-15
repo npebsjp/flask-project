@@ -8,7 +8,7 @@ import os
 
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model_columns_path = os.path.join(BASE_DIR, "../models/model_columns.csv")
+# = os.path.join(BASE_DIR, "../models/model_columns.csv")
 
 # carregando as colunas esperadas
 expected_cols = pd.read_csv("../models/model_columns.csv")["column"].tolist()
@@ -30,8 +30,8 @@ def index():
         # Get inputs from form
         user_input = {
             "zipCode": request.form["zipCode"],
-            "latitude": float(request.form["latitude"]),
-            "longitude": float(request.form["longitude"]),
+            #"latitude": float(request.form["latitude"]),
+            #"longitude": float(request.form["longitude"]),
             "bedrooms": int(request.form["bedrooms"]),
             "bathrooms": float(request.form["bathrooms"]),
             "squareFootage": int(request.form["squareFootage"]),
@@ -49,8 +49,8 @@ def index():
         # Start with basic features
         input_df = pd.DataFrame([{
             "zipCode": user_input["zipCode"],
-            "latitude": user_input["latitude"],
-            "longitude": user_input["longitude"],
+            #"latitude": user_input["latitude"],
+            #"longitude": user_input["longitude"],
             "bedrooms": user_input["bedrooms"],
             "bathrooms": user_input["bathrooms"],
             "squareFootage": user_input["squareFootage"],
