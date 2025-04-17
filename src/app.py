@@ -15,7 +15,7 @@ expected_cols = pd.read_csv("../models/model_columns.csv")["column"].tolist()
 model_path = os.path.join(BASE_DIR, "../models/ligthGBM_algorithm_regressor_default_42.sav")
 
 # Load trained model
-model = pickle.load(open("../models/ligthGBM_algorithm_regressor_default_42.sav", "rb"))
+model = pickle.load(open("../EDA/ligthGBM_algorithm_regressor_default_42.sav", "rb"))
 
 
 
