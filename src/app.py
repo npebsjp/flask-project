@@ -5,6 +5,7 @@ import sqlite3
 import pickle
 from pickle import load
 import os
+from lightgbm import LGBMRegressor
 
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
